@@ -1,6 +1,6 @@
 {
 	"name": "Google search tabs reorder",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"description": "This extension makes sure the images tab is always the second tab in Google search",
 	"homepage_url": "https://github.com/LynnAU/google-tabs-order-ext",
 	"manifest_version": 2,
